@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\World C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962364BB-DDD0-452D-BB70-F98EFFBD33AC}|Project1\\Project1.vcxproj|C:\\Users\\Lenovo\\source\\repos\\World C\u002B\u002B\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{962364BB-DDD0-452D-BB70-F98EFFBD33AC}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\World C\u002B\u002B\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\World C\u002B\u002B\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-25T15:23:23.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
